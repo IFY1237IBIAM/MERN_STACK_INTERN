@@ -4,6 +4,9 @@ import Hero from "./components/Hero";
 import About from "./components/About";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
+import Hobbies from "./components/Hobbies";
+import Skills from "./components/Skills";
+import Background from "./components/Background";
 import Footer from "./components/footer";
 import './App.css'; // 
 import './index.css';
@@ -17,6 +20,9 @@ function App() {
       <About />
       <Projects />
       <Contact />
+      <Hobbies />
+      <Skills />
+      <Background />
       <Footer />
     </div>
   );
