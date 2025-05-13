@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/metricoid-portfolio/static/css/main.353a14d5.css",
-    "main.js": "/metricoid-portfolio/static/js/main.227786af.js",
-    "static/js/453.e2c0dc43.chunk.js": "/metricoid-portfolio/static/js/453.e2c0dc43.chunk.js",
-    "index.html": "/metricoid-portfolio/index.html",
-    "main.353a14d5.css.map": "/metricoid-portfolio/static/css/main.353a14d5.css.map",
-    "main.227786af.js.map": "/metricoid-portfolio/static/js/main.227786af.js.map",
-    "453.e2c0dc43.chunk.js.map": "/metricoid-portfolio/static/js/453.e2c0dc43.chunk.js.map"
+    "main.css": "/MERN_STACK_INTERN/static/css/main.353a14d5.css",
+    "main.js": "/MERN_STACK_INTERN/static/js/main.143c7cfe.js",
+    "static/js/453.e2c0dc43.chunk.js": "/MERN_STACK_INTERN/static/js/453.e2c0dc43.chunk.js",
+    "index.html": "/MERN_STACK_INTERN/index.html",
+    "main.353a14d5.css.map": "/MERN_STACK_INTERN/static/css/main.353a14d5.css.map",
+    "main.143c7cfe.js.map": "/MERN_STACK_INTERN/static/js/main.143c7cfe.js.map",
+    "453.e2c0dc43.chunk.js.map": "/MERN_STACK_INTERN/static/js/453.e2c0dc43.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.353a14d5.css",
-    "static/js/main.227786af.js"
+    "static/js/main.143c7cfe.js"
   ]
 }
