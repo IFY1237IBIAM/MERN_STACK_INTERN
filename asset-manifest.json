@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.353a14d5.css",
-    "main.js": "/static/js/main.9d716d17.js",
-    "static/js/453.e2c0dc43.chunk.js": "/static/js/453.e2c0dc43.chunk.js",
-    "index.html": "/index.html",
-    "main.353a14d5.css.map": "/static/css/main.353a14d5.css.map",
-    "main.9d716d17.js.map": "/static/js/main.9d716d17.js.map",
-    "453.e2c0dc43.chunk.js.map": "/static/js/453.e2c0dc43.chunk.js.map"
+    "main.css": "/metricoid-portfolio/static/css/main.353a14d5.css",
+    "main.js": "/metricoid-portfolio/static/js/main.227786af.js",
+    "static/js/453.e2c0dc43.chunk.js": "/metricoid-portfolio/static/js/453.e2c0dc43.chunk.js",
+    "index.html": "/metricoid-portfolio/index.html",
+    "main.353a14d5.css.map": "/metricoid-portfolio/static/css/main.353a14d5.css.map",
+    "main.227786af.js.map": "/metricoid-portfolio/static/js/main.227786af.js.map",
+    "453.e2c0dc43.chunk.js.map": "/metricoid-portfolio/static/js/453.e2c0dc43.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.353a14d5.css",
-    "static/js/main.9d716d17.js"
+    "static/js/main.227786af.js"
   ]
 }
